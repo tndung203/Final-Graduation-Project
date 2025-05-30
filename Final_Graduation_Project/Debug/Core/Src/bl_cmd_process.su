@@ -1,0 +1,14 @@
+../Core/Src/bl_cmd_process.c:9:15:word_to_byte	32	static
+../Core/Src/bl_cmd_process.c:14:14:get_crc	32	static
+../Core/Src/bl_cmd_process.c:34:6:bootloader_send_ack	64	static
+../Core/Src/bl_cmd_process.c:45:6:bootloader_send_nack	56	static
+../Core/Src/bl_cmd_process.c:54:9:bootloader_verify_crc	40	static
+../Core/Src/bl_cmd_process.c:75:9:bl_get_version	4	static
+../Core/Src/bl_cmd_process.c:79:10:bl_get_cid	16	static
+../Core/Src/bl_cmd_process.c:85:6:bootloader_handle_getcid_cmd	72	static
+../Core/Src/bl_cmd_process.c:102:6:bootloader_handle_getver_cmd	72	static
+../Core/Src/bl_cmd_process.c:125:6:bootloader_go_to_addr	56	static,ignoring_inline_asm
+../Core/Src/bl_cmd_process.c:170:9:verify_address	16	static
+../Core/Src/bl_cmd_process.c:204:9:execute_mem_write	40	static
+../Core/Src/bl_cmd_process.c:223:6:bootloader_handle_mem_write_cmd	40	static
+../Core/Src/bl_cmd_process.c:268:6:bootloader_read_data	16	static
