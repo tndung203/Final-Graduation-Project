@@ -1,0 +1,7 @@
+../Core/Src/mq135.c:20:7:getCorrectionFactor	24	static
+../Core/Src/mq135.c:31:7:getResistance	16	static
+../Core/Src/mq135.c:47:7:getCorrectedResistance	24	static
+../Core/Src/mq135.c:58:7:getPPM	8	static
+../Core/Src/mq135.c:73:7:getCorrectedPPM	16	static
+../Core/Src/mq135.c:84:7:getRZero	8	static
+../Core/Src/mq135.c:99:7:getCorrectedRZero	16	static
